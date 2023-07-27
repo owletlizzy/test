@@ -1,0 +1,10 @@
+body{margin:1em auto 10em; line-height:1.5em; font-size: 17px !important;}
+a{color:#000080;}
+a:hover{background-color:#f7ff7f;}
+h1{margin:0; font-family:serif; font-size:4em;}
+h1 em{font-size: 0.75em;}
+h2{margin-top:1.5em; border-bottom:1px solid #cccccc; padding-bottom:0.5em;}
+ul{margin-bottom:2em;}
+li{margin-bottom:1em;}
+img{max-width: 800px; border:5px solid goldenrod; box-sizing:border-box; display:block; margin:2em auto;}
+ol{margin-top:1em;}
